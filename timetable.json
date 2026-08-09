@@ -1,60 +1,42 @@
-[
-  {
-    "day": "Mon",
-    "cells": [
-      { "colspan": 10, "content": "Capstone Project (8:00 AM - 6:00 PM)" }
-    ]
-  },
-  {
-    "day": "Tue",
-    "cells": [
-      { "content": "DevOps<br>CR-504" },
-      { "content": "DevOps<br>CR-504" },
-      { "content": "Break", "style": "color:var(--text-muted)" },
-      { "content": "Cyber Security<br>CR-504" },
-      { "content": "IVR & AR<br>CR-504" },
-      { "content": "Cloud Computing<br>CR-507" },
-      { "content": "B1 - Interpersonal Skills<br>CR-604<br><hr>B2 - Microservices<br>CL-1" },
-      { "content": "B1 - Interpersonal Skills<br>CR-604<br><hr>B2 - Microservices<br>CL-1" },
-      { "content": "-" },
-      { "content": "-" }
-    ]
-  },
-  {
-    "day": "Wed",
-    "cells": [
-      { "colspan": 2, "content": "IVR & AR Practical<br>ARVR Lab (7th Floor)" },
-      { "colspan": 2, "content": "B1 - Cloud Computing Practical<br>CL-403<hr>B2 - Cyber Security Practical<br>CL-804" },
-      { "content": "Break", "style": "color:var(--text-muted)" },
-      { "content": "Professional Ethics<br>CR-504" },
-      { "content": "Cloud Computing<br>CR-504" },
-      { "content": "Big Data Analysis<br>CR-504" },
-      { "colspan": 2, "content": "B2 - Cloud Computing Practical<br>CL-705" }
-    ]
-  },
-  {
-    "day": "Thu",
-    "cells": [
-      { "colspan": 2, "content": "DevOps Practical<br>CC-702<hr>Big Data Analysis Practical<br>AI Lab" },
-      { "content": "Microservices<br>CR-509" },
-      { "content": "Break", "style": "color:var(--text-muted)" },
-      { "colspan": 2, "content": "B1 - Machine Learning Practical<br>Advanced Communication Lab 6th Floor<hr>B2 - IVR & AR Practical<br>ARVR Lab (7th Floor)" },
-      { "content": "IVR & AR<br>CR-504" },
-      { "content": "Cyber Security<br>CR-504" },
-      { "content": "Machine Learning<br>CR-406" },
-      { "content": "-" }
-    ]
-  },
-  {
-    "day": "Fri",
-    "cells": [
-      { "colspan": 2, "content": "B1 - Microservices Practical<br>CL-701" },
-      { "content": "Microservices<br>CR-504" },
-      { "content": "Machine Learning<br>CR-504" },
-      { "content": "Break", "style": "color:var(--text-muted)" },
-      { "content": "Big Data Analysis<br>CR-504" },
-      { "colspan": 2, "content": "B1 - Cyber Security Practical<br>CL-706<hr>B2 - Interpersonal Skills<br>CL-BC" },
-      { "colspan": 2, "content": "B2 - Machine Learning Practical<br>DEL Lab" }
-    ]
-  }
-]
+{
+  "Monday": [
+    { "start": "8:00 AM", "end": "6:00 PM", "time": "8:00 AM - 6:00 PM", "subject": "Capstone Project" }
+  ],
+  "Tuesday": [
+    { "start": "8:00 AM", "end": "9:00 AM", "time": "8:00 AM - 9:00 AM", "subject": "Devops - CR 504" },
+    { "start": "9:00 AM", "end": "10:00 AM", "time": "9:00 AM - 10:00 AM", "subject": "Devops - CR 504" },
+    { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "Break" },
+    { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Cyber Security - CR 504" },
+    { "start": "12:00 PM", "end": "1:00 PM", "time": "12:00 PM - 1:00 PM", "subject": "IVR & AR - CR 504" },
+    { "start": "1:00 PM", "end": "2:00 PM", "time": "1:00 PM - 2:00 PM", "subject": "Cloud Computing - CR 507" },
+    { "start": "2:00 PM", "end": "3:00 PM", "time": "2:00 PM - 3:00 PM", "subject": "B1 - Interpersonal Skills - CR 604 || B2 - Microservices Practical - CL 1" },
+    { "start": "3:00 PM", "end": "4:00 PM", "time": "3:00 PM - 4:00 PM", "subject": "B1 - Interpersonal Skills - CR 604 || B2 - Microservices Practical - CL 1" }
+  ],
+  "Wednesday": [
+    { "start": "8:00 AM", "end": "10:00 AM", "time": "8:00 AM - 10:00 AM", "subject": "B1 - IVR & AR Practical - 7th Floor ARVR Lab" },
+    { "start": "10:00 AM", "end": "12:00 PM", "time": "10:00 AM - 12:00 PM", "subject": "B1 - Cloud Computing Practical - CL 403 || B2 - Cyber Security Practical - CL 804" },
+    { "start": "12:00 PM", "end": "1:00 PM", "time": "12:00 PM - 1:00 PM", "subject": "Break" },
+    { "start": "1:00 PM", "end": "2:00 PM", "time": "1:00 PM - 2:00 PM", "subject": "Professional Ethics - CR 504" },
+    { "start": "2:00 PM", "end": "3:00 PM", "time": "2:00 PM - 3:00 PM", "subject": "Cloud Computing - CR 504" },
+    { "start": "3:00 PM", "end": "4:00 PM", "time": "3:00 PM - 4:00 PM", "subject": "Big Data Analysis - CR 504" },
+    { "start": "4:00 PM", "end": "6:00 PM", "time": "4:00 PM - 6:00 PM", "subject": "B2 - Cloud Computing Practical - CL 705" }
+  ],
+  "Thursday": [
+    { "start": "8:00 AM", "end": "10:00 AM", "time": "8:00 AM - 10:00 AM", "subject": "Devops Practical - CC 702 || Big Data Analysis Practical - AI Lab" },
+    { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "Microservices - CR 509" },
+    { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Break" },
+    { "start": "12:00 PM", "end": "2:00 PM", "time": "12:00 PM - 2:00 PM", "subject": "B1 - Machine Learning Practical - Advanced Comm Lab || B2 - IVR & AR Practical - 7th Floor ARVR Lab" },
+    { "start": "2:00 PM", "end": "3:00 PM", "time": "2:00 PM - 3:00 PM", "subject": "IVR & AR - CR 504" },
+    { "start": "3:00 PM", "end": "4:00 PM", "time": "3:00 PM - 4:00 PM", "subject": "Cyber Security - CR 504" },
+    { "start": "4:00 PM", "end": "5:00 PM", "time": "4:00 PM - 5:00 PM", "subject": "Machine Learning - CL 406" }
+  ],
+  "Friday": [
+    { "start": "8:00 AM", "end": "10:00 AM", "time": "8:00 AM - 10:00 AM", "subject": "B1 - Microservices Practical - CL 701" },
+    { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "Microservices - CR 504" },
+    { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Machine Learning - CR 504" },
+    { "start": "12:00 PM", "end": "1:00 PM", "time": "12:00 PM - 1:00 PM", "subject": "Break" },
+    { "start": "1:00 PM", "end": "2:00 PM", "time": "1:00 PM - 2:00 PM", "subject": "Big Data Analysis - CR 504" },
+    { "start": "2:00 PM", "end": "4:00 PM", "time": "2:00 PM - 4:00 PM", "subject": "B1 - Cyber Security Practical - CL 706 || B2 - Interpersonal Skills - CL BC" },
+    { "start": "4:00 PM", "end": "6:00 PM", "time": "4:00 PM - 6:00 PM", "subject": "B2 - Machine Learning Practical - DEL Lab" }
+  ]
+}
