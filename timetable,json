@@ -1,0 +1,60 @@
+[
+  {
+    "day": "Mon",
+    "cells": [
+      { "colspan": 10, "content": "Capstone Project (8:00 AM - 6:00 PM)" }
+    ]
+  },
+  {
+    "day": "Tue",
+    "cells": [
+      { "content": "DevOps<br>CR-504" },
+      { "content": "DevOps<br>CR-504" },
+      { "content": "Break", "style": "color:var(--text-muted)" },
+      { "content": "Cyber Security<br>CR-504" },
+      { "content": "IVR & AR<br>CR-504" },
+      { "content": "Cloud Computing<br>CR-507" },
+      { "content": "B1 - Interpersonal Skills<br>CR-604<br><hr>B2 - Microservices<br>CL-1" },
+      { "content": "B1 - Interpersonal Skills<br>CR-604<br><hr>B2 - Microservices<br>CL-1" },
+      { "content": "-" },
+      { "content": "-" }
+    ]
+  },
+  {
+    "day": "Wed",
+    "cells": [
+      { "colspan": 2, "content": "IVR & AR Practical<br>ARVR Lab (7th Floor)" },
+      { "colspan": 2, "content": "B1 - Cloud Computing Practical<br>CL-403<hr>B2 - Cyber Security Practical<br>CL-804" },
+      { "content": "Break", "style": "color:var(--text-muted)" },
+      { "content": "Professional Ethics<br>CR-504" },
+      { "content": "Cloud Computing<br>CR-504" },
+      { "content": "Big Data Analysis<br>CR-504" },
+      { "colspan": 2, "content": "B2 - Cloud Computing Practical<br>CL-705" }
+    ]
+  },
+  {
+    "day": "Thu",
+    "cells": [
+      { "colspan": 2, "content": "DevOps Practical<br>CC-702<hr>Big Data Analysis Practical<br>AI Lab" },
+      { "content": "Microservices<br>CR-509" },
+      { "content": "Break", "style": "color:var(--text-muted)" },
+      { "colspan": 2, "content": "B1 - Machine Learning Practical<br>Advanced Communication Lab 6th Floor<hr>B2 - IVR & AR Practical<br>ARVR Lab (7th Floor)" },
+      { "content": "IVR & AR<br>CR-504" },
+      { "content": "Cyber Security<br>CR-504" },
+      { "content": "Machine Learning<br>CR-406" },
+      { "content": "-" }
+    ]
+  },
+  {
+    "day": "Fri",
+    "cells": [
+      { "colspan": 2, "content": "B1 - Microservices Practical<br>CL-701" },
+      { "content": "Microservices<br>CR-504" },
+      { "content": "Machine Learning<br>CR-504" },
+      { "content": "Break", "style": "color:var(--text-muted)" },
+      { "content": "Big Data Analysis<br>CR-504" },
+      { "colspan": 2, "content": "B1 - Cyber Security Practical<br>CL-706<hr>B2 - Interpersonal Skills<br>CL-BC" },
+      { "colspan": 2, "content": "B2 - Machine Learning Practical<br>DEL Lab" }
+    ]
+  }
+]
