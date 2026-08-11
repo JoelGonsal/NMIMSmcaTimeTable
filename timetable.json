@@ -9,7 +9,7 @@
     { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Cyber Security - CR 504" },
     { "start": "12:00 PM", "end": "1:00 PM", "time": "12:00 PM - 1:00 PM", "subject": "IVR & AR - CR 504" },
     { "start": "1:00 PM", "end": "2:00 PM", "time": "1:00 PM - 2:00 PM", "subject": "Cloud Computing - CR 507" },
-    { "start": "2:00 PM", "end": "3:00 PM", "time": "2:00 PM - 3:00 PM", "subject": "B1 - Interpersonal Skills - CR 604 || B2 - Microservices Practical - CL 1" },
+    { "start": "2:00 PM", "end": "3:00 PM", "time": "2:00 PM - 3:00 PM", "subject": "B1 - Interpersonal Skills - CR 602|| B2 - Microservices Practical - CL 1" },
     { "start": "3:00 PM", "end": "4:00 PM", "time": "3:00 PM - 4:00 PM", "subject": "B1 - Interpersonal Skills - CR 604 || B2 - Microservices Practical - CL 1" }
   ],
   "Wednesday": [
