@@ -3,7 +3,7 @@
     { "start": "8:00 AM", "end": "6:00 PM", "time": "8:00 AM - 6:00 PM", "subject": "Capstone Project" }
   ],
   "Tuesday": [
-    { "start": "8:00 AM", "end": "9:00 AM", "time": "8:00 AM - 9:00 AM", "subject": "Devops - CR 504" },
+    { "start": "8:00 AM", "end": "9:00 AM", "time": "8:00 AM - 9:00 AM", "subject": "Devops - CR 502" },
     { "start": "9:00 AM", "end": "10:00 AM", "time": "9:00 AM - 10:00 AM", "subject": "Devops - CR 504" },
     { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "Break" },
     { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Cyber Security - CR 504" },
