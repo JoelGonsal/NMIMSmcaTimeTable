@@ -22,7 +22,7 @@
     { "start": "4:00 PM", "end": "6:00 PM", "time": "4:00 PM - 6:00 PM", "subject": "B2 - Cloud Computing Practical - CL 705" }
   ],
   "Thursday": [
-    { "start": "8:00 AM", "end": "10:00 AM", "time": "8:00 AM - 10:00 AM", "subject": "Devops Practical - CC 702 || Big Data Analysis Practical - AI Lab" },
+    { "start": "8:00 AM", "end": "10:00 AM", "time": "8:00 AM - 10:00 AM", "subject": "Devops Practical (Checking Website) - CC 702 || Big Data Analysis Practical - AI Lab" },
     { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "Microservices - CR 509" },
     { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Break" },
     { "start": "12:00 PM", "end": "2:00 PM", "time": "12:00 PM - 2:00 PM", "subject": "B1 - Machine Learning Practical - Advanced Comm Lab || B2 - IVR & AR Practical - 7th Floor ARVR Lab" },
