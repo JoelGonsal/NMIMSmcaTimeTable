@@ -26,8 +26,8 @@
     { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "ML Extra Lecture - CR 509" },
     { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Break" },
     { "start": "12:00 PM", "end": "2:00 PM", "time": "12:00 PM - 2:00 PM", "subject": "B1 - Machine Learning Practical - Advanced Comm Lab || B2 - IVR & AR Practical - 7th Floor ARVR Lab" },
-    { "start": "2:00 PM", "end": "3:00 PM", "time": "2:00 PM - 3:00 PM", "subject": "Cyber Security - CR 504" },
-    { "start": "3:00 PM", "end": "4:00 PM", "time": "3:00 PM - 4:00 PM", "subject": "IVR & AR - CR 504" },
+    { "start": "2:00 PM", "end": "3:00 PM", "time": "2:00 PM - 3:00 PM", "subject": "IVR & AR - CR 504" },
+    { "start": "3:00 PM", "end": "4:00 PM", "time": "3:00 PM - 4:00 PM", "subject": "Cyber Security - CR 504" },
     { "start": "4:00 PM", "end": "5:00 PM", "time": "4:00 PM - 5:00 PM", "subject": "Machine Learning - CL 406" }
   ],
   "Friday": [
