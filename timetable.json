@@ -3,8 +3,8 @@
     { "start": "8:00 AM", "end": "6:00 PM", "time": "8:00 AM - 6:00 PM", "subject": "Capstone Project" }
   ],
   "Tuesday": [
-    { "start": "8:00 AM", "end": "9:00 AM", "time": "8:00 AM - 9:00 AM", "subject": "Devops - CR 504 M1 Exam" },
-    { "start": "9:00 AM", "end": "10:00 AM", "time": "9:00 AM - 10:00 AM", "subject": "Devops - CR 504 M1 Exam" },
+    { "start": "8:00 AM", "end": "9:00 AM", "time": "8:00 AM - 9:00 AM", "subject": "Devops - CR 504" },
+    { "start": "9:00 AM", "end": "10:00 AM", "time": "9:00 AM - 10:00 AM", "subject": "Devops - CR 504" },
     { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "Break" },
     { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Cyber Security - CR 504" },
     { "start": "12:00 PM", "end": "1:00 PM", "time": "12:00 PM - 1:00 PM", "subject": "IVR & AR - CR 504" },
@@ -23,7 +23,7 @@
   ],
   "Thursday": [
     { "start": "8:00 AM", "end": "10:00 AM", "time": "8:00 AM - 10:00 AM", "subject": "DevOps Practical - CC 702 || Big Data Analysis Practical - AI Lab" },
-    { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "ML Extra Lecture - CR 509" },
+    { "start": "10:00 AM", "end": "11:00 AM", "time": "10:00 AM - 11:00 AM", "subject": "Microservices Theory - CR 509" },
     { "start": "11:00 AM", "end": "12:00 PM", "time": "11:00 AM - 12:00 PM", "subject": "Break" },
     { "start": "12:00 PM", "end": "2:00 PM", "time": "12:00 PM - 2:00 PM", "subject": "B1 - Machine Learning Practical - Advanced Comm Lab || B2 - IVR & AR Practical - 7th Floor ARVR Lab" },
     { "start": "2:00 PM", "end": "3:00 PM", "time": "2:00 PM - 3:00 PM", "subject": "IVR & AR - CR 504" },
